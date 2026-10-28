@@ -1,5 +1,5 @@
 (() => {
-  const whatsappNumber = "5519982497244";
+  const whatsappNumber = "5519996697769";
   const baseMessage = "Olá! Quero divulgar meu produto ou serviço nos grupos de WhatsApp.";
   const menuButton = document.querySelector(".menu-toggle");
   const nav = document.querySelector(".nav-links");
